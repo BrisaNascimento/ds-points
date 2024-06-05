@@ -2,3 +2,12 @@ __pycache__
 *.db
 *.csv
 *.xlsx
+
+#ignore pyenv local version
+.python-version
+
+#ignore venv        
+.venv/
+
+#ignore toml poetry
+pyproject.toml
