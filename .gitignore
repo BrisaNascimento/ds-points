@@ -12,3 +12,13 @@ __pycache__
 
 #ignore toml poetry
 pyproject.toml
+
+
+#ignore pyenv local version
+.python-version
+
+#ignore venv        
+.venv/
+
+#ignore toml poetry
+pyproject.toml
